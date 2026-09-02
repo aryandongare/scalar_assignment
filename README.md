@@ -40,11 +40,3 @@ Run the evaluation report:
 ```bash
 python evaluate_performance.py
 ```
-
-## ❓ FAQ (Interview Prep)
-
-**Why did you choose Presidio over standard Regex?**
-Regex is great for structured things like Emails or IP Addresses, but it is terrible for Full Names or Locations. Presidio is the best of both worlds because it combines Regex for the easy stuff and spaCy (Machine Learning) for the hard stuff, all in one package.
-
-**How would you extend this to support a new PII type like an Indian Passport?**
-You can easily extend Presidio by creating a new `PatternRecognizer`. You write a regex for the passport format (`[A-Z]{1}[0-9]{7}`), add it to the `AnalyzerEngine`'s registry, and it will start detecting passports immediately. Then you just update the `get_fake_value()` function to return a fake passport string when it sees that entity type.
