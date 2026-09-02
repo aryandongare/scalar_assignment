@@ -1,0 +1,757 @@
+[
+    {
+        "type": "DATE_TIME",
+        "original": "December 10, 2025",
+        "replaced_with": "26-03-1959"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "2013",
+        "replaced_with": "19-11-1973"
+    },
+    {
+        "type": "LOCATION",
+        "original": "India",
+        "replaced_with": "Port Richardville"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Maharashtra",
+        "replaced_with": "South Amandamouth"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Pune",
+        "replaced_with": "Melissaburgh"
+    },
+    {
+        "type": "PERSON",
+        "original": "Chakan Taluka - Khed",
+        "replaced_with": "Justin Miles"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Village Birdewadi",
+        "replaced_with": "North Rebecca"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "December 10, 2025",
+        "replaced_with": "26-03-1959"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "January 2025",
+        "replaced_with": "23-04-2008"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "1996",
+        "replaced_with": "18-08-1961"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "1979",
+        "replaced_with": "02-05-1996"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "Fiscal 2025",
+        "replaced_with": "13-05-1981"
+    },
+    {
+        "type": "LOCATION",
+        "original": "India",
+        "replaced_with": "Port Richardville"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "Fiscal 2025",
+        "replaced_with": "13-05-1981"
+    },
+    {
+        "type": "LOCATION",
+        "original": "India",
+        "replaced_with": "Port Richardville"
+    },
+    {
+        "type": "PERSON",
+        "original": "Ahilyanagar",
+        "replaced_with": "Ethan West"
+    },
+    {
+        "type": "PERSON",
+        "original": "Supa",
+        "replaced_with": "Anna Thomas"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Pune",
+        "replaced_with": "Melissaburgh"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Chakan",
+        "replaced_with": "West Rhondashire"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Pune",
+        "replaced_with": "Melissaburgh"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Chakan",
+        "replaced_with": "West Rhondashire"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Taloja",
+        "replaced_with": "Bakerton"
+    },
+    {
+        "type": "LOCATION",
+        "original": "India",
+        "replaced_with": "Port Richardville"
+    },
+    {
+        "type": "LOCATION",
+        "original": "India",
+        "replaced_with": "Port Richardville"
+    },
+    {
+        "type": "NRP",
+        "original": "non-GAAP",
+        "replaced_with": "Cooper-Solis"
+    },
+    {
+        "type": "PERSON",
+        "original": "Sunil Nagayya Shetty",
+        "replaced_with": "Lee Rose"
+    },
+    {
+        "type": "PERSON",
+        "original": "Ajay Menon",
+        "replaced_with": "Emily Sanders"
+    },
+    {
+        "type": "PERSON",
+        "original": "Jabeen Ajay Menon",
+        "replaced_with": "Kayla Cohen"
+    },
+    {
+        "type": "PERSON",
+        "original": "Salil Ajay Bhargava",
+        "replaced_with": "Mary Wu"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rupal K. Sancheti",
+        "replaced_with": "Mr. James Johnson"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "December 10, 2025",
+        "replaced_with": "26-03-1959"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "June 30, 2025",
+        "replaced_with": "28-12-2006"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "Three-month",
+        "replaced_with": "04-08-1999"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "June 30, 2025",
+        "replaced_with": "28-12-2006"
+    },
+    {
+        "type": "PERSON",
+        "original": "Supa",
+        "replaced_with": "Anna Thomas"
+    },
+    {
+        "type": "PERSON",
+        "original": "Supa",
+        "replaced_with": "Anna Thomas"
+    },
+    {
+        "type": "PERSON",
+        "original": "Ahmednagar",
+        "replaced_with": "Robert Mcintyre"
+    },
+    {
+        "type": "PERSON",
+        "original": "Ahilyanagar",
+        "replaced_with": "Ethan West"
+    },
+    {
+        "type": "PERSON",
+        "original": "Supa",
+        "replaced_with": "Anna Thomas"
+    },
+    {
+        "type": "LOCATION",
+        "original": "India",
+        "replaced_with": "Port Richardville"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Maharashtra",
+        "replaced_with": "South Amandamouth"
+    },
+    {
+        "type": "LOCATION",
+        "original": "India",
+        "replaced_with": "Port Richardville"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Maharashtra",
+        "replaced_with": "South Amandamouth"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Mumbai",
+        "replaced_with": "Georgemouth"
+    },
+    {
+        "type": "PERSON",
+        "original": "Lower Parel",
+        "replaced_with": "Stacey Sharp"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Senapati",
+        "replaced_with": "Berrymouth"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Madhya Pradesh",
+        "replaced_with": "East Brendastad"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Bhopal",
+        "replaced_with": "West Whitneyfurt"
+    },
+    {
+        "type": "PERSON",
+        "original": "Ram Kumar Tiwari",
+        "replaced_with": "Misty Stout"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Pune",
+        "replaced_with": "Melissaburgh"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rakhi Girija Shetty",
+        "replaced_with": "Wendy Maynard"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rakhi Girija Shetty",
+        "replaced_with": "Wendy Maynard"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rohit Kushal Hegde",
+        "replaced_with": "Cynthia Webb"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rajesh Kushal Hegde",
+        "replaced_with": "William Wallace"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "5",
+        "replaced_with": "26-10-2006"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Waterloo Industrial Park",
+        "replaced_with": "Williamsberg"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "December 2024\u2013January 2025",
+        "replaced_with": "21-09-1986"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "2011",
+        "replaced_with": "24-10-1968"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "Working Days",
+        "replaced_with": "05-02-1957"
+    },
+    {
+        "type": "PERSON",
+        "original": "Nuvama",
+        "replaced_with": "Harold Nelson"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "December 10, 2025",
+        "replaced_with": "26-03-1959"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "December 10, 2025",
+        "replaced_with": "26-03-1959"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "Monday, December 15, 2025",
+        "replaced_with": "21-03-1985"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "Tuesday, December 16, 2025",
+        "replaced_with": "30-10-1998"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "Thursday, December 18, 2025",
+        "replaced_with": "10-04-1984"
+    },
+    {
+        "type": "NRP",
+        "original": "Chakan",
+        "replaced_with": "Rodriguez Inc"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Supa Facility",
+        "replaced_with": "Jasmineland"
+    },
+    {
+        "type": "LOCATION",
+        "original": "the Supa Facility",
+        "replaced_with": "Merrittside"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "Feb 2025",
+        "replaced_with": "09-05-1981"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "Feb 21, 2025",
+        "replaced_with": "01-09-1960"
+    },
+    {
+        "type": "PERSON",
+        "original": "Pushpa Kushal Hegde",
+        "replaced_with": "Madison Johnson"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rajesh Kushal Hegde",
+        "replaced_with": "William Wallace"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rohit Kushal Hegde",
+        "replaced_with": "Cynthia Webb"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rakhi Girija",
+        "replaced_with": "Tyler Johnson"
+    },
+    {
+        "type": "PERSON",
+        "original": "Pushpa Kushal Hegde",
+        "replaced_with": "Madison Johnson"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rajesh Kushal Hegde",
+        "replaced_with": "William Wallace"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rohit Kushal Hegde",
+        "replaced_with": "Cynthia Webb"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "10,494.60",
+        "replaced_with": "19-11-1993"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "the period/year",
+        "replaced_with": "15-06-1978"
+    },
+    {
+        "type": "LOCATION",
+        "original": "\u20b9 mn",
+        "replaced_with": "Baileyburgh"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rajesh Kushal Hegde",
+        "replaced_with": "William Wallace"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rohit Kushal Hegde",
+        "replaced_with": "Cynthia Webb"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rakhi Girija",
+        "replaced_with": "Tyler Johnson"
+    },
+    {
+        "type": "PERSON",
+        "original": "Sandesh Bhagwat",
+        "replaced_with": "Jennifer Robbins"
+    },
+    {
+        "type": "PERSON",
+        "original": "Amod Joshi",
+        "replaced_with": "Jacqueline Young"
+    },
+    {
+        "type": "PERSON",
+        "original": "Sarthak Malvadkar",
+        "replaced_with": "Shawn Brown"
+    },
+    {
+        "type": "NRP",
+        "original": "Indian",
+        "replaced_with": "Hughes, Torres and Mcintyre"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rajesh Kushal Hegde",
+        "replaced_with": "William Wallace"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rohit Kushal Hegde",
+        "replaced_with": "Cynthia Webb"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "00134926",
+        "replaced_with": "26-03-2008"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rakhi Girija",
+        "replaced_with": "Tyler Johnson"
+    },
+    {
+        "type": "PERSON",
+        "original": "Dinesh Hirachand Munot",
+        "replaced_with": "Patty Price"
+    },
+    {
+        "type": "PERSON",
+        "original": "Ajay Shriram Patil",
+        "replaced_with": "William Holmes"
+    },
+    {
+        "type": "PERSON",
+        "original": "Ram Kumar Tiwari",
+        "replaced_with": "Misty Stout"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "10938958",
+        "replaced_with": "07-07-1998"
+    },
+    {
+        "type": "PERSON",
+        "original": "Indu Jacob",
+        "replaced_with": "Kevin Reynolds"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "05293084",
+        "replaced_with": "12-02-2006"
+    },
+    {
+        "type": "PHONE_NUMBER",
+        "original": "05293084",
+        "replaced_with": "(470)757-7460"
+    },
+    {
+        "type": "PERSON",
+        "original": "Pushpa Kushal Hegde",
+        "replaced_with": "Madison Johnson"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rajesh Branch",
+        "replaced_with": "Kayla Taylor"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rajesh Kushal Hegde",
+        "replaced_with": "William Wallace"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rohit Branch",
+        "replaced_with": "Kimberly Wood"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rohit Kushal Hegde",
+        "replaced_with": "Cynthia Webb"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rakhi Girija Shetty",
+        "replaced_with": "Wendy Maynard"
+    },
+    {
+        "type": "PERSON",
+        "original": "Sangeeta Ramprasad Rai",
+        "replaced_with": "Gina Nelson"
+    },
+    {
+        "type": "LOCATION",
+        "original": "India",
+        "replaced_with": "Port Richardville"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Maharashtra",
+        "replaced_with": "South Amandamouth"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Pune",
+        "replaced_with": "Melissaburgh"
+    },
+    {
+        "type": "PERSON",
+        "original": "Taluka-Khed",
+        "replaced_with": "Christina Morris"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Chakan",
+        "replaced_with": "West Rhondashire"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Village Birdewadi",
+        "replaced_with": "North Rebecca"
+    },
+    {
+        "type": "LOCATION",
+        "original": "India",
+        "replaced_with": "Port Richardville"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Maharashtra",
+        "replaced_with": "South Amandamouth"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Pune",
+        "replaced_with": "Melissaburgh"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Baner",
+        "replaced_with": "Williamshaven"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Pune",
+        "replaced_with": "Melissaburgh"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Akurdi",
+        "replaced_with": "East Williamtown"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Near Akurdi Railway Station",
+        "replaced_with": "West Anne"
+    },
+    {
+        "type": "LOCATION",
+        "original": "RoC",
+        "replaced_with": "New Loganmouth"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "August 4, 2025",
+        "replaced_with": "28-05-1993"
+    },
+    {
+        "type": "PERSON",
+        "original": "Cap Price",
+        "replaced_with": "Tanya Lamb"
+    },
+    {
+        "type": "PERSON",
+        "original": "Cap Price",
+        "replaced_with": "Tanya Lamb"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "Nov 26, 2025",
+        "replaced_with": "08-01-1992"
+    },
+    {
+        "type": "LOCATION",
+        "original": "India",
+        "replaced_with": "Port Richardville"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "2018",
+        "replaced_with": "19-11-1964"
+    },
+    {
+        "type": "PERSON",
+        "original": "Amanda Whitfield",
+        "replaced_with": "Karen Cross"
+    },
+    {
+        "type": "PERSON",
+        "original": "Email Address",
+        "replaced_with": "Dawn Wall"
+    },
+    {
+        "type": "EMAIL_ADDRESS",
+        "original": "amanda.whitfield84@sample-mail.com",
+        "replaced_with": "opeterson@example.net"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "555-0198",
+        "replaced_with": "01-04-1964"
+    },
+    {
+        "type": "PHONE_NUMBER",
+        "original": "+1 (415) 555-0198",
+        "replaced_with": "+91 90997 59105"
+    },
+    {
+        "type": "PERSON",
+        "original": "Mailing Address",
+        "replaced_with": "Heidi Caldwell"
+    },
+    {
+        "type": "LOCATION",
+        "original": "USA",
+        "replaced_with": "Stewartborough"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Springfield",
+        "replaced_with": "Cooperborough"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "14-March-1988",
+        "replaced_with": "18-12-1967"
+    },
+    {
+        "type": "US_SSN",
+        "original": "923-45-6781",
+        "replaced_with": "392-08-6795"
+    },
+    {
+        "type": "IP_ADDRESS",
+        "original": "192.168.117.42",
+        "replaced_with": "48.253.156.148"
+    },
+    {
+        "type": "PERSON",
+        "original": "Rajiv Menon",
+        "replaced_with": "Carrie Hansen"
+    },
+    {
+        "type": "PERSON",
+        "original": "Email Address",
+        "replaced_with": "Dawn Wall"
+    },
+    {
+        "type": "EMAIL_ADDRESS",
+        "original": "rajiv.menon77@sample-mail.in",
+        "replaced_with": "chad41@example.com"
+    },
+    {
+        "type": "PHONE_NUMBER",
+        "original": "+91 98765 43210",
+        "replaced_with": "+91 89506 09641"
+    },
+    {
+        "type": "PERSON",
+        "original": "Mailing Address",
+        "replaced_with": "Heidi Caldwell"
+    },
+    {
+        "type": "LOCATION",
+        "original": "India",
+        "replaced_with": "Port Richardville"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Karnataka",
+        "replaced_with": "Berrymouth"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "560001",
+        "replaced_with": "07-03-1972"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Bengaluru",
+        "replaced_with": "Adamsmouth"
+    },
+    {
+        "type": "LOCATION",
+        "original": "Sunrise Apartments",
+        "replaced_with": "Johnmouth"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "02/11/1990",
+        "replaced_with": "05-10-1989"
+    },
+    {
+        "type": "NRP",
+        "original": "Indian",
+        "replaced_with": "Hughes, Torres and Mcintyre"
+    },
+    {
+        "type": "DATE_TIME",
+        "original": "0004",
+        "replaced_with": "17-10-1994"
+    },
+    {
+        "type": "CREDIT_CARD",
+        "original": "5500 0000 0000 0004",
+        "replaced_with": "4502 1067 2780 7828"
+    },
+    {
+        "type": "IP_ADDRESS",
+        "original": "10.0.212.55",
+        "replaced_with": "55.170.125.170"
+    }
+]
